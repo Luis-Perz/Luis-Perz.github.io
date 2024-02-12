@@ -2,4 +2,4 @@
 Hello World for the Web
 
 # Description
-Creating my first repository for week 1
+Luis' repository for Hello World for the Web. Sprint 1 and 2.
